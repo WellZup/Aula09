@@ -35,15 +35,15 @@ public class Crime {
         }
 
         int negativo = 0;
-        if(r1.equals("S")){
+        if(r1.equals("N")){
             negativo++;
-        } if (r2.equals("S")){
+        } if (r2.equals("N")){
             negativo++;
-        } if (r3.equals("S")){
+        } if (r3.equals("N")){
             negativo++;
-        } if (r4.equals("S")){
+        } if (r4.equals("N")){
             negativo++;
-        } if (r5.equals("S")){
+        } if (r5.equals("N")){
             negativo++;
         }
 
