@@ -13,7 +13,7 @@
 - `Exercicio 1` `Folha de Pagamento`
 - `Exercicio 2` `Desconto no combustível`
 - `Exercicio 3` `Perguntas para uma pessoa sobre um crime`
-- `Exercicio 4` `Calculo de salário por hora`
+
  
 ## ✔️ Técnicas e tecnologias utilizadas
 
