@@ -34,21 +34,21 @@ public class Folha_de_Pagamento {
                     faixaIr = 4;
                 }
 //Criando um switch case para verificar se é isento ou não
-
-                switch (faixaIr) {
-                    case 1:
-
-                        break;
-                    case 2:
-
-                        break;
-                    case 3:
-
-                        break;
-                    case 4:
-
-                        break;
-                }
+//
+//                switch (faixaIr) {
+//                    case 1:
+//
+//                        break;
+//                    case 2:
+//
+//                        break;
+//                    case 3:
+//
+//                        break;
+//                    case 4:
+//
+//                        break;
+//                }
 
                 salarioLiquido = salarioBruto - inss - impostoDeRenda;
 

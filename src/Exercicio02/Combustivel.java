@@ -15,7 +15,7 @@ public class Combustivel {
         System.out.println("Digite o combustível escolhido? (A - Álcool || G - Gasolina)");
         tipoCombustivel = entrada.next();
 
-        if (tipoCombustivel.equals("A")){
+        if (tipoCombustivel.equalsIgnoreCase("A")){
             totalPago = litros * alcoolPreco;
         } else {
             totalPago = litros * gasolinaPreco;
